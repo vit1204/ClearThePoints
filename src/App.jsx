@@ -1,4 +1,4 @@
-import PointGame from "./components/PointGame"
+import PointGame from "./components/PointGame/PointGame"
 
 function App() {
 
